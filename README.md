@@ -1,5 +1,5 @@
-
-> Azure Pipelines badge here
+https://nikimanolitsi.github.io/game/
+https://dev.azure.com/nmanolitsi/nmanolitsi/_apis/build/status/nikimanolitsi.game?branchName=master
 
 # Introduction
 
