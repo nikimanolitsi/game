@@ -1,7 +1,4 @@
-https://nikimanolitsi.github.io/game/
-[![Build Status](https://dev.azure.com/nmanolitsi/nmanolitsi/_apis/build/status/nikimanolitsi.game?branchName=master)](https://dev.azure.com/nmanolitsi/nmanolitsi/_build/latest?definitionId=1&branchName=master)
-
-# Introduction
+# Introduction https://nikimanolitsi.github.io/game/
 
 Snak-e-thon is a multiplayer snake battle game that provides a royale experience.
 If you want to start contributing to the project, you can start by cloning the project and create pull requests.
@@ -33,3 +30,5 @@ WIP
 
 Maintainers and contributors to the current project: @nikimanolitsi
 Contact them if you need any help.
+
+[![Build Status](https://dev.azure.com/nmanolitsi/nmanolitsi/_apis/build/status/nikimanolitsi.game?branchName=master)](https://dev.azure.com/nmanolitsi/nmanolitsi/_build/latest?definitionId=1&branchName=master)
