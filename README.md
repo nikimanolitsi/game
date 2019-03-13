@@ -1,12 +1,12 @@
 
 > Azure Pipelines badge here
 
-# Introduction {#introduction}
+# Introduction
 
 Snak-e-thon is a multiplayer snake battle game that provides a royale experience.
 If you want to start contributing to the project, you can start by cloning the project and create pull requests.
 
-# Features {#features}
+# Features
 
 * multiplayer ability
 * when snake eats red squares, player gets one point
