@@ -73,12 +73,12 @@ describe('CoordinateService', () => {
 
         player.changeDirection(Direction.UP);
         CoordinateService.movePlayer(player);
-        expectedSegments = [new Coordinate(6, 2),
-                            new Coordinate(6, 1),
+        expectedSegments = [new Coordinate(6, 1),
                             new Coordinate(5, 1),
                             new Coordinate(4, 1),
                             new Coordinate(3, 1),
-                            new Coordinate(2, 1)];
+                            new Coordinate(2, 1),
+                            new Coordinate(1, 1)];
         assert.deepEqual(player.getSegments(), expectedSegments, 'Player did not move down or unexpectedly grew');
         done();
     });
